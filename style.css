@@ -17,7 +17,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #221c7e;
+    background-color: #221c7d;
 }
 
 .cabecalho-link {
@@ -95,7 +95,7 @@ section {
 }
 
 footer {
-    background-color: #7e3e1c;
+    background-color: #221c7d;
     padding: 15px 25px;
     color: #fff;
     text-align: center;
